@@ -18,12 +18,7 @@ state = {
 		
 		owner = UNC
 		 
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-			 
-		}
+		 
 		buildings = {
 			infrastructure = 1
 			

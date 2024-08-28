@@ -6,9 +6,7 @@ state = {
 	
 	state_category = rural
 	
-	resources={
-		
-	}
+ 
 	history={
 		owner = UNC
 		 

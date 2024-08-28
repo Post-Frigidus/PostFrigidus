@@ -31,21 +31,7 @@ state={
 			1047 5
 		}
 
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = { has_dlc = "Waking the Tiger" }
-				}
-				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
-			}
-			JAP = {
-				set_province_ 7
-				set_province_ 2
-				set_province_ 38
-				set_province_ 41
-			} 			
-		}
+	 
 	}
 
 	provinces={

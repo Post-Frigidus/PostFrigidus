@@ -37,19 +37,7 @@ state=
 			}
 		}
 
-		1938.10.25 = {		
-			JAP = {
-				set_province_ 5
-				set_province_ 6
-				set_province_ 2
-				set_province_ 8
-				set_province_ 1
-				set_province_ 4
-				set_province_ 14
-				set_province_ 01
-				set_province_ 91
-			} 			
-		}
+	 
 	}
 	provinces={
 		1055 1096 1168 1195 4013 4042 4099 7058 7086 7146 7174 7191 9944 9972 9974 10014 10058 10086 10101 11920 11947 11991 12059 

@@ -13,12 +13,7 @@ state = {
 	history = {
 		owner = UNC
 		 
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-			 
-		}
+		 
 		victory_points = {
 			3048 1
 		}

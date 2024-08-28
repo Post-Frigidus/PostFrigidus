@@ -15,26 +15,7 @@ state={
 		victory_points = {
 			4619 5 
 		}
-		1938.10.25 = {
-			buildings = {
-				industrial_complex = 3
-				infrastructure = 3 #was: 6
-				air_base = 2
-				arms_factory = 2
-
-			}
-			JAP = {
-				set_province_ 6
-				set_province_ 9
-				set_province_ 1
-				set_province_ 7
-				set_province_ 7
-				set_province_ 9
-				set_province_ 62
-
-			}
-
-		}
+		 
 
 	}
 

@@ -5,9 +5,7 @@ state={
 	manpower = 17355600
 	state_category = town
 	
-	resources={
-		#tungsten=19 # was: 26
-	}
+	 
 
 	history={
 		owner = UNC

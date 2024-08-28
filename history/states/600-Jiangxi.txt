@@ -14,21 +14,7 @@ state={
 		victory_points = {
 			3992 3 
 		}
-		1938.10.25 = {
-			JAP = {
-				set_province_ 3
-				set_province_ 8
-				set_province_ 2
-				set_province_ 8
-				set_province_ 5
-				set_province_ 3
-				set_province_ 14
-				set_province_ 88
-				set_province_ 41
-
-			}
-
-		}
+	 
 
 	}
 

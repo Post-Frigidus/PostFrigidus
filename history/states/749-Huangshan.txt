@@ -18,20 +18,7 @@ state={
 			12019 1
 		}
 		
-		1938.10.25 = {
-			 
-			CHI = {
-				set_province_ 5
-				set_province_ 4
-				set_province_ 19
-
-			}
-			buildings = {
-				infrastructure = 3 #was: 6
-				air_base = 1
-			}
-
-		}
+	 
 
 	}
 

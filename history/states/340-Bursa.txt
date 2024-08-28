@@ -24,10 +24,7 @@ state={
 			9799 5
 		}
 		 
-		if = {
-			limit = { has_dlc = "Battle for the Bosporus" }
-			 
-		}
+		 
 		
 		1936.11.9 = {
 			 
