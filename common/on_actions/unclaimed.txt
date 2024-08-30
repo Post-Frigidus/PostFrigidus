@@ -1,0 +1,31 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			REB = {
+				remove_state_claim = 934
+			}
+			UNC = {
+				country_lock_all_division_template = yes
+				set_state_controller = 934
+				transfer_state  = 934
+			}
+			
+			
+		}
+	}
+	on_daily = {
+		effect = {
+			for_each_scope_loop = {
+				array = global.countries
+				if = {
+					limit = {
+						OR = {
+							has_wargoal_against = UNC
+						}
+					}
+					remove_wargoal = {type = all target = UNC}
+				}
+			}
+		}
+	}
+}

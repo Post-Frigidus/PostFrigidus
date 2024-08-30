@@ -14,8 +14,8 @@ state = {
 
 		owner = UNC
 		 
-		add_claim_by = BOL
-		add_claim_by = PAR
+		 
+		 
 
 		buildings = {
 			infrastructure = 1

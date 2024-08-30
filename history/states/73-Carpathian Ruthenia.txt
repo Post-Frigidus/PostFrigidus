@@ -14,8 +14,8 @@ state={
 			infrastructure = 3
 		}
 		 
-		add_claim_by = HUN
-		add_claim_by = UKR
+		 
+		 
 
 		1939.3.14 = {
 			owner = UNC

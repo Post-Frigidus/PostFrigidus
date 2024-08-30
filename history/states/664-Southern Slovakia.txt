@@ -19,7 +19,7 @@ state={
 			6573 1 
 		}
 		 
-		add_claim_by = HUN
+		 
 
 		1939.3.14 = {
 			owner = UNC

@@ -36,7 +36,7 @@ state={
 		owner = UNC
 		 
 		 
-		add_claim_by = ERI
+		 
 		1936.6.1 = {
 			owner = UNC
 			 
