@@ -2,8 +2,8 @@
 
 # Welcome message
  welcome.1.t:0 "Welcome to Post Frigidus"
- welcome.1.d:0 "Thank you for using our mod! \nThis is a early version (version 0.1) so there isnt alot of content here yet, currently we only have a few nations added but we are actively working on adding more content for all to enjoy! \nWe hope you enjoy this early version of our mod, please join our discord if you have any questions or suggestions!"
- welcome.1.a:0 "Thanks!"
+ welcome.1.d:0 "In the year 1924, the world lies frozen beneath the grip of an eternal winter, unleashed by the catastrophic aftermath of the Great War. Nations have crumbled, and survival is a daily struggle in this diesel-fueled wasteland. The journey is treacherous, and only the strongest will endure the biting cold and endless dangers that lie ahead. As the winds howl and the frost creeps closer, you must make your way through the cold, where survival is earned through grit, determination, and the will to fight for a future beyond the ice.\n\nWelcome to Post Frigidus Early Access. This is an early version of the mod, we cannot guarantee content or that everything works correctly. Thank you for giving us a try. Join our discord to join the community, ask questions, voice concerns, make suggestions, etc."
+ welcome.1.a:0 "The road to survival starts now."
 
  states.1.t:0 "[GetIntegration1Title]"
  STATES_1_t_DEFAULT:0 "Beginning negotiations for [target_state.GetName]"
