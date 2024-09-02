@@ -8,7 +8,6 @@
 	FOCUS_FILTER_BALANCE_OF_POWER = 200
 	FOCUS_FILTER_SOV_POLITICAL_PARANOIA = 111
 	FOCUS_FILTER_PROPAGANDA = 110
-	FOCUS_FILTER_MISSIOLINI = 110
 	FOCUS_FILTER_ARMY_XP = 103
 	FOCUS_FILTER_NAVY_XP = 102
 	FOCUS_FILTER_AIR_XP = 101
@@ -969,20 +968,7 @@ focus_tree = {
 			modifier = {
 				factor = 0
 				date < 1939.1.1
-				OR = { 
-					# we dont want chinese minors to go crazy on slots early since they get eaten
-					tag = GXC 
-					tag = YUN
-					tag = SHX
-					tag = XSM
-					tag = BEL
-					tag = LUX
-					tag = HOL
-					tag = DEN
-
-					# we also dont want tiny nations to go crazy with slots right away
-					num_of_controlled_states < 2
-				}				
+						
 			}
 		}
 	}
@@ -1778,10 +1764,7 @@ focus_tree = {
 					has_idea = neutrality_idea
 				}
 			}
-			modifier = {
-				factor = 20
-				has_idea = SOV_russian_political_influence
-			}
+		
 		}
 
 		completion_reward = {
@@ -1826,10 +1809,7 @@ focus_tree = {
 					NOT = { has_government = fascism }
 				}
 			}
-			modifier = {
-				factor = 10
-				has_idea = SOV_russian_political_influence
-			}
+			
 		}
 
 		completion_reward = {
@@ -1846,16 +1826,7 @@ focus_tree = {
 		prerequisite = { focus = collectivist_ethos }
 		mutually_exclusive = { focus = nationalism_focus }
 		available = {
-			if = {
-				limit = { original_tag = CHI }
-				has_government = communism
-				else = {
-					OR = {
-						has_government = communism
-						has_government = neutrality
-					}
-				}
-			}
+		
 		}
 		x = 0
 		y = 1
