@@ -1,7 +1,8 @@
 ﻿l_english:
- RTX_neutrality_party:0 "ISP" 
+ RTX_neutrality_party:0 "Iron Star Party" 
  RTX_neutrality_party_long:0 "Iron Star of Texas Party"
  RTX_neutrality_party_short:0 "Iron Star Party"
+ RTX_oligarchism_desc:0 "The Iron Star Party is a political force forged in the fires of war and tempered by the icy grip of the Eternal Winter. Led by the President, his Supreme General, and a group of industrial and national elites."
 
  communism:0 "Communist"
  communism_noun:0 "Communism"
