@@ -4,14 +4,14 @@ defined_text = {
 	name = GetFirstTitle
 
 	text = {
-		localization_key = DEFAULT_FIRST_TITLE
-	}
-
-	text = {
 		trigger = {
 			tag = RTX
 		}
 		localization_key = RTX_PRESIDENT_TITLE
+	}
+
+	text = {
+		localization_key = DEFAULT_FIRST_TITLE
 	}
 }
 
@@ -30,30 +30,30 @@ defined_text = {
 	name = GetDualLeaderName
 
 	text = {
-		localization_key = DEFAULT_TITLE
-	}
-
-	text = {
 		trigger = {
 			tag = RTX
 		}
 		localization_key = RTX_Clayton_McAllister
 	}
+
+	text = {
+		localization_key = DEFAULT_TITLE
+	}
 }
 
 defined_text = {
     name = GetDualLeaderPortrait
-
-	text = {
-		localization_key = "GFX_portrait_bg_blank"
-	}
-
 	text = {
 		trigger = {
 			tag = RTX
 		}
 		localization_key = GFX_portrait_Clayton_McAllister
 	}
+
+	text = {
+		localization_key = "GFX_portrait_bg_blank"
+	}
+
 }
 
 defined_text = {
