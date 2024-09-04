@@ -1,3 +1,7 @@
 ﻿l_english:
  UNC_DEF:0 "Unclaimed"
  UNC_ADJ:0 "Unclaimed"
+
+ RTX:0 "Republic of Texas"
+ RTX_DEF:0 "Texas"
+ RTX_ADJ:0 "Texan"
