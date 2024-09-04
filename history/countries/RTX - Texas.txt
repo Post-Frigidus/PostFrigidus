@@ -1,4 +1,4 @@
-capital = 111
+capital = 375
 
 oob = "RTX_1924"
 
@@ -18,7 +18,7 @@ set_popularities = {
 }
 
 add_ideas = {
-
+	RTX_disorganized_pop RTX_national_police
 }
 
 set_convoys = 60

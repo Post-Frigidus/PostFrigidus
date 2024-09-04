@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_RTX_national_police"
+		textureFile = "gfx/interface/ideas/idea_RTX_national_police.dds"
+	}
+}
