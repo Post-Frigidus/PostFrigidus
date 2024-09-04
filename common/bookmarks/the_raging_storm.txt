@@ -9,8 +9,15 @@ bookmarks = {
 		
 
 		
-		"---"={
-			history = "USA_GATHERING_STORM_DESC"
+		"RTX"={
+			history = "RTX_RAGING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
 		}
 	
 		
