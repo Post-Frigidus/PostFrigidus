@@ -1,0 +1,9 @@
+spriteTypes = {
+
+	
+	spriteType = {
+		name = GFX_portrait_Sam_Colton
+		texturefile = "gfx/leaders/RTX/portrait_Sam_Colton.dds"
+	}
+	
+}

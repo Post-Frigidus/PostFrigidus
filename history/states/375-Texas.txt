@@ -2,7 +2,7 @@
 state={
 	id=375
 	name="STATE_375"
-	manpower = 5824712
+	manpower = 4352173
 	
 	
 	state_category = metropolis
@@ -14,10 +14,12 @@ state={
 
 
 	history={
-		owner = UNC
+		owner = RTX
+		add_core_of = RTX
 		buildings = {
 			infrastructure = 3 #was: 6
-			industrial_complex = 9
+			industrial_complex = 2
+			arms_factory = 4
 			air_base = 3
 			10337 = {
 				naval_base = 3
