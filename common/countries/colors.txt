@@ -2,3 +2,8 @@ UNC = {
 	color = rgb {0 0 0}
 	color_ui = rgb {0 0 0}
 }
+
+RTX = {
+	color = rgb { 0 116 168 }
+	color_ui = rgb { 0 116 168 }
+}
