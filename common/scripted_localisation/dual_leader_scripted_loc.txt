@@ -37,7 +37,7 @@ defined_text = {
 		trigger = {
 			tag = RTX
 		}
-		localization_key = RTX_DUAL_LEADER_NAME
+		localization_key = RTX_Clayton_McAllister
 	}
 }
 
