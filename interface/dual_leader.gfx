@@ -50,7 +50,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_RTX_Clayton_McAllister"
-		texturefile = "gfx/dual_leaders/portrait_Clayton_McAllister"
+		name = "GFX_portrait_Clayton_McAllister"
+		texturefile = "gfx/dual_leaders/RTX/portrait_Clayton_McAllister.dds"
 	}
 }
