@@ -1,0 +1,19 @@
+ideas = {
+	country = {
+		RTX_disorganized_pop = {
+			picture = prc_low_popular_support2
+
+			modifier = {
+				recruitable_population_factor = -0.3
+			}
+		}
+		RTX_national_police = {
+			picture = RTX_national_police
+
+			modifier = {
+				stability_factor = 0.035
+				stability_weekly = 0.001
+			}
+		}
+	}
+}

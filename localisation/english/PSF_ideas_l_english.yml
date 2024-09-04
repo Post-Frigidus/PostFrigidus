@@ -2,3 +2,8 @@
 post_frigidus:0 "Post Frigidus"
 
 integrating_territory:0 "Construction Efforts"
+
+ RTX_disorganized_pop:0 "Disorganized Populace"
+ RTX_disorganized_pop_desc:0 "The Great Freeze created sheer chaos. The people are in shambles. Nobody knows what to do."
+ RTX_national_police:0 "Military Police Force"
+ RTX_national_police_desc:0 "The Texas Army Military Police has taken over much of the policing that local law enforcement used to do, and some of the population don't particularly like that. Luckily, the Texas Rangers remain unaffected, acting as the official national police force and a paramilitary service, much to the happiness of the people."

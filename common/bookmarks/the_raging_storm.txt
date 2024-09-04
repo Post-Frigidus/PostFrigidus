@@ -13,7 +13,7 @@ bookmarks = {
 			history = "RTX_RAGING_STORM_DESC"
 			ideology = neutrality
 			ideas = {
-			
+				RTX_disorganized_pop RTX_national_police
 			}
 			focuses = {
 			
