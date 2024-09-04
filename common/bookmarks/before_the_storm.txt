@@ -18,6 +18,16 @@ bookmarks = {
 			
 			}
 		}
+		"RTX"={
+			history = "RTX_RAGING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
 	
 		
 		
