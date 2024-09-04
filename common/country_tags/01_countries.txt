@@ -1,2 +1,3 @@
 UNC = "countries/unclamed.txt"
 REB = "countries/rebels.txt"
+RTX = "countries/texas.txt"

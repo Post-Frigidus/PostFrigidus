@@ -12,3 +12,6 @@
  dual_leader_desc_tt:0 "§g[From.GetDualLeaderDesc]§!"
  first_leader_desc_tt:0 "§g[From.GetFirstLeaderDesc]§!"
     # Nation Specific Localisation
+RTX_PRESIDENT_TITLE:0 "President"
+RTX_SECOND_TITLE:0 "Supreme General"
+RTX_DUAL_LEADER_NAME:0 "Clayton McAllister"

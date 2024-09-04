@@ -1,0 +1,18 @@
+characters = {
+	RTX_Samuel_Colton={
+		name=RTX_Samuel_Colton
+		gender = male
+		portraits={
+			civilian={
+				large=GFX_portrait_Sam_Colton
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			traits = {  }
+			id=-1
+			desc = RTX_Samuel_Colton_desc
+		}
+	}
+	
+}
