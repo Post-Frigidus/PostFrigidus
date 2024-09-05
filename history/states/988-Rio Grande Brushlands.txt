@@ -1,0 +1,41 @@
+state = {
+	id = 988
+	name = "STATE_988"
+	manpower = 75849
+	
+	state_category = rural
+	
+	resources = {
+	
+	}
+
+	history = {
+		owner = UNC
+		add_core_of = RTX
+
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+			arms_factory = 1
+			6785 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			12782 5 
+		}
+		victory_points = {
+			6785 1 
+		}
+		victory_points = {
+			5061 1 
+		}
+	}
+
+	provinces = {
+		1927 2019 2042 4884 5061 6785 6987 12369 12782
+	}
+	
+	local_supplies = 1.1 
+}
