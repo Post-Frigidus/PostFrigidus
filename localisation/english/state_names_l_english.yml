@@ -991,3 +991,7 @@
  STATE_986:0 "Texas Panhandle"
  STATE_987:0 "Trans-Pecos"
  STATE_988:0 "Rio Grande Brushlands"
+ STATE_989:0 "Edwards Plateau"
+ STATE_990:0 "North Central Texas"
+ STATE_991:0 "Central Texas"
+ STATE_992:0 "East Texas"
