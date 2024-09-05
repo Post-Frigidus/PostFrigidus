@@ -1,0 +1,34 @@
+state = {
+	id = 971
+	name = "STATE_971"
+	manpower = 100000
+	
+	state_category = city
+	
+	resources = {
+	
+	}
+
+	history = {
+
+		owner = IRE
+		 
+		 
+		 
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			11293 5 
+		}
+		
+	}
+
+	provinces = {
+		11293
+	}
+
+	local_supplies = 0.0 
+}

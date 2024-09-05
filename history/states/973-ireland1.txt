@@ -1,0 +1,32 @@
+state = {
+	id = 973
+	name = "STATE_973"
+	manpower = 100000
+	
+	state_category = city
+	
+	resources = {
+	
+	}
+
+	history = {
+
+		owner = UNC
+		 
+		 
+		 
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		
+		
+	}
+
+	provinces = {
+		385 11257
+	}
+
+	local_supplies = 0.0 
+}

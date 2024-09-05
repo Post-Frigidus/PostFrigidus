@@ -271,10 +271,7 @@ technologies = {
 				factor = 2
 				has_war_with = GER
 			}
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 
 		categories = {
@@ -318,10 +315,7 @@ technologies = {
 				factor = 2
 				has_war_with = GER
 			}
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 
 		categories = {
@@ -364,10 +358,7 @@ technologies = {
 				factor = 4
 				has_war_with = GER
 			}
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 
 		categories = {
@@ -407,10 +398,7 @@ technologies = {
 				factor = 4
 				has_war_with = GER
 			}
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 
 		categories = {
@@ -449,10 +437,7 @@ technologies = {
 				factor = 4
 				has_war_with = GER
 			}
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 
 		categories = {
@@ -488,10 +473,7 @@ technologies = {
 				factor = 4
 				has_war_with = GER
 			}
-			modifier = {
-				factor = 2
-				anti_submarine_strategy_required_trigger = yes
-			}
+			
 		}
 
 		categories = {

@@ -5,3 +5,16 @@
  RTX:0 "Republic of Texas"
  RTX_DEF:0 "Texas"
  RTX_ADJ:0 "Texan"
+
+ #Balkanized UK/Ireland
+ IRA:0 "Irish Republican Army"
+ IRA_DEF:0 "IRA"
+ IRA_ADJ:0 "IRA"
+ 
+ IRE:0 "Dublin"
+ IRE_DEF:0 "Dublin"
+ IRE_ADJ:0 "Dublin"
+
+ BEL:0 "Belfast"
+ BEL_DEF:0 "Belfast"
+ BEL_ADJ:0 "Belfast"

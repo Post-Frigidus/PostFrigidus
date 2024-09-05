@@ -1,0 +1,34 @@
+state = {
+	id = 970
+	name = "STATE_970"
+	manpower = 100000
+	
+	state_category = city
+	
+	resources = {
+	
+	}
+
+	history = {
+
+		owner = IRA
+		 
+		 
+		 
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			7394 5 
+		}
+		
+	}
+
+	provinces = {
+		7394
+	}
+
+	local_supplies = 0.0 
+}

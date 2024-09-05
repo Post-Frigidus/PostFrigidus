@@ -1,3 +1,9 @@
 UNC = "countries/unclamed.txt"
 REB = "countries/rebels.txt"
 RTX = "countries/texas.txt"
+
+
+#Balkanized UK
+IRA = "countries/ira.txt"
+IRE = "countries/dublin.txt"
+BEL = "countries/belfast.txt"

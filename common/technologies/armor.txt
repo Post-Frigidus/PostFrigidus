@@ -187,19 +187,9 @@ technologies = {
 			
 			modifier = {
 				factor = 100
-				OR = {
-					
-					
-				}
+
 				has_war = yes
-				any_enemy_country = {
-					ROOT = {
-						estimated_intel_max_armor = {
-							V
-							value > 25
-						}
-					}
-				}
+				
 			}
 			modifier = {
 				has_template_containing_unit = light_tank_destroyer_brigade
@@ -398,14 +388,7 @@ technologies = {
 					
 				}
 				has_war = yes
-				any_enemy_country = {
-					ROOT = {
-						estimated_intel_max_armor = {
-							V
-							value > 27
-						}
-					}
-				}
+				
 			}
 			modifier = {
 				has_template_containing_unit = light_tank_destroyer_brigade
@@ -661,14 +644,7 @@ technologies = {
 					
 				}
 				has_war = yes
-				any_enemy_country = {
-					ROOT = {
-						estimated_intel_max_armor = {
-							V
-							value > 27
-						}
-					}
-				}
+				
 			}
 		}
 		
@@ -817,14 +793,7 @@ technologies = {
 					#
 					
 				}
-				any_enemy_country = {
-					ROOT = {
-						estimated_intel_max_armor = {
-							V
-							value > 30
-						}
-					}
-				}
+				
 			}
 
 			modifier = {
@@ -1045,14 +1014,7 @@ technologies = {
 					
 				}
 				has_war = yes
-				any_enemy_country = {
-					ROOT = {
-						estimated_intel_max_armor = {
-							V
-							value > 32
-						}
-					}
-				}
+				
 			}
 			modifier = {
 				has_template_containing_unit = medium_tank_destroyer_brigade
@@ -1240,21 +1202,7 @@ technologies = {
 		ai_will_do = {
 			base = 1
 			
-			modifier = {
-				add = 160
-				OR = {
-					
-					
-				}
-				any_enemy_country = {
-					ROOT = {
-						estimated_intel_max_armor = {
-							V
-							value > 35
-						}
-					}
-				}
-			}
+		
 
 			modifier = {
 				factor = 0

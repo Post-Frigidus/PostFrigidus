@@ -1,0 +1,34 @@
+state = {
+	id = 972
+	name = "STATE_972"
+	manpower = 100000
+	
+	state_category = city
+	
+	resources = {
+	
+	}
+
+	history = {
+
+		owner = BEL
+		 
+		 
+		 
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			3379 5 
+		}
+		
+	}
+
+	provinces = {
+		3379
+	}
+
+	local_supplies = 0.0 
+}

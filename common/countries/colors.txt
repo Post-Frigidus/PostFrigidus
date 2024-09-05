@@ -7,3 +7,18 @@ RTX = {
 	color = rgb { 0 116 168 }
 	color_ui = rgb { 0 116 168 }
 }
+
+IRA = {
+	color = rgb {5 143 0}
+	color_ui = rgb {5 143 0}
+}
+
+IRE = {
+	color = rgb { 0 68 27 }
+	color_ui = rgb { 0 68 27 }
+}
+
+BEL = {
+	color = rgb { 237 173 8 }
+	color_ui = rgb { 237 173 8 }
+}

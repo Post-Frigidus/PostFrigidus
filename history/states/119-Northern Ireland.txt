@@ -5,21 +5,15 @@ state={
 
 	history={
 		owner = UNC
-		victory_points = {
-			3379 5 
-		}
-		victory_points = {
-			385 1 # Londonderry
-		}
+	
+		
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 2
 			air_base = 1
 			dockyard = 2
-			3379 = {
-				naval_base = 4
-			}
+			
 		}
 		 
 		 
@@ -27,9 +21,9 @@ state={
 	}
 
 	provinces={
-		276 385 3217 3242 3329 3379 11257 
+		276 3329 
 	}
-	manpower=1198537
+	manpower=500000
 	buildings_max_level_factor=1
 	state_category="city"
 	
