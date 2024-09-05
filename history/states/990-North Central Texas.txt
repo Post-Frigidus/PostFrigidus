@@ -1,9 +1,9 @@
 state = {
-	id = 986
-	name = "STATE_986"
-	manpower = 119321
+	id = 990
+	name = "STATE_990"
+	manpower = 874201
 	
-	state_category = rural
+	state_category = city
 	
 	resources = {
 	
@@ -17,18 +17,14 @@ state = {
 			infrastructure = 2 #was: 6
 			industrial_complex = 1
 		}
-	
 		victory_points = {
-			9908 5
-		}
-		victory_points = {
-			3972 1
+			3960 10
 		}
 	}
 
 	provinces = {
-		1998 2055 3972 9773 9908 12301 12848 12893
+		3875 1915 5085 9920 2082 3960 
 	}
 	
-	local_supplies = 0.8 
+	local_supplies = 1.1 
 }
