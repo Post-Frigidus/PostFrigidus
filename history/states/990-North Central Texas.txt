@@ -1,0 +1,30 @@
+state = {
+	id = 990
+	name = "STATE_990"
+	manpower = 874201
+	
+	state_category = city
+	
+	resources = {
+	
+	}
+
+	history = {
+		owner = RTX
+		add_core_of = RTX
+
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+		victory_points = {
+			3960 10
+		}
+	}
+
+	provinces = {
+		3875 1915 5085 9920 2082 3960 
+	}
+	
+	local_supplies = 1.1 
+}

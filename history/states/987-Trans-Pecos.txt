@@ -1,0 +1,31 @@
+state = {
+	id = 987
+	name = "STATE_987"
+	manpower = 99415
+	
+	state_category = town
+	
+	resources = {
+	
+	}
+
+	history = {
+		owner = UNC
+		add_core_of = RTX
+
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			10740 5
+		}
+	}
+
+	provinces = {
+		1954 4955 5038 10740 10894
+	}
+	
+	local_supplies = 1.1 
+}
