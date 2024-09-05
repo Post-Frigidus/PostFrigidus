@@ -1,4 +1,4 @@
-capital = 375
+capital = 990
 
 oob = "RTX_1924"
 
