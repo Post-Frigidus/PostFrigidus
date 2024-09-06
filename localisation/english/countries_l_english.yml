@@ -11,10 +11,70 @@
  IRA_DEF:0 "IRA"
  IRA_ADJ:0 "IRA"
  
- IRE:0 "Dublin"
- IRE_DEF:0 "Dublin"
- IRE_ADJ:0 "Dublin"
+ DUB:0 "Dublin"
+ DUB_DEF:0 "Dublin"
+ DUB_ADJ:0 "Dublin"
 
  BEL:0 "Belfast"
  BEL_DEF:0 "Belfast"
  BEL_ADJ:0 "Belfast"
+
+ LON:0 "London"
+ LON_DEF:0 "London"
+ LON_ADJ:0 "London"
+
+ POR:0 "Portsmouth"
+ POR_DEF:0 "Portsmouth"
+ POR_ADJ:0 "Portsmouth"
+
+ DOV:0 "Dover"
+ DOV_DEF:0 "Dover"
+ DOV_ADJ:0 "Dover"
+
+ CRD:0 "Cardiff"
+ CRD_DEF:0 "Cardiff"
+ CRD_ADJ:0 "Cardiff"
+
+ BRI:0 "Bristol"
+ BRI_DEF:0 "Bristol"
+ BRI_ADJ:0 "Bristol"
+
+ BIR:0 "Birmingham"
+ BIR_DEF:0 "Birmingham"
+ BIR_ADJ:0 "Birmingham"
+
+ LEI:0 "Leicester"
+ LEI_DEF:0 "Leicester"
+ LEI_ADJ:0 "Leicester"
+
+ NOT:0 "Nottingham"
+ NOT_DEF:0 "Nottingham"
+ NOT_ADJ:0 "Nottingham"
+
+ SHE:0 "Sheffield"
+ SHE_DEF:0 "Sheffield"
+ SHE_ADJ:0 "Sheffield"
+
+ LEE:0 "Leeds"
+ LEE_DEF:0 "Leeds"
+ LEE_ADJ:0 "Leeds"
+
+ LVP:0 "Liverpool"
+ LVP_DEF:0 "Liverpool"
+ LVP_ADJ:0 "Liverpool"
+
+ NEW:0 "Newcastle"
+ NEW_DEF:0 "Newcastle"
+ NEW_ADJ:0 "Newcastle"
+
+ EDN:0 "Edinburgh"
+ EDN_DEF:0 "Edinburgh"
+ EDN_ADJ:0 "Edinburgh"
+
+ GLA:0 "Glasgow"
+ GLA_DEF:0 "Glasgow"
+ GLA_ADJ:0 "Glasgow"
+
+ ROS:0 "Rosyth"
+ ROS_DEF:0 "Rosyth"
+ ROS_ADJ:0 "Rosyth"

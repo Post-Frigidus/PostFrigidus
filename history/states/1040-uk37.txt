@@ -1,0 +1,25 @@
+state = {
+	id = 1040
+	name = "STATE_1040"
+	manpower = 10000
+	
+	state_category = rural
+	
+	resources = {
+	
+	}
+
+	history = {
+		victory_points = {
+			6300 5
+		}
+		owner = ROS
+		add_core_of = ROS
+	}
+
+	provinces = {
+		6300    
+	}
+
+	local_supplies = 0.0 
+}

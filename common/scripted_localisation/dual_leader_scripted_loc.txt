@@ -11,6 +11,13 @@ defined_text = {
 	}
 
 	text = {
+		trigger = {
+			tag = LON
+		}
+		localization_key = prime_minister
+	}
+
+	text = {
 		localization_key = DEFAULT_FIRST_TITLE
 	}
 }
@@ -24,6 +31,13 @@ defined_text = {
 		}
 		localization_key = RTX_SECOND_TITLE
 	}
+
+	text = {
+		trigger = {
+			tag = LON
+		}
+		localization_key = monarch
+	}
 }
 
 defined_text = {
@@ -34,6 +48,14 @@ defined_text = {
 			tag = RTX
 		}
 		localization_key = RTX_Clayton_McAllister
+	}
+
+	
+	text = {
+		trigger = {
+			tag = LON
+		}
+		localization_key = LON_George_V
 	}
 
 	text = {
@@ -48,6 +70,13 @@ defined_text = {
 			tag = RTX
 		}
 		localization_key = GFX_portrait_Clayton_McAllister
+	}
+
+	text = {
+		trigger = {
+			tag = LON
+		}
+		localization_key = GFX_portrait_LON_George_V
 	}
 
 	text = {

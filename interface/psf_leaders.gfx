@@ -6,4 +6,10 @@ spriteTypes = {
 		texturefile = "gfx/leaders/RTX/portrait_Sam_Colton.dds"
 	}
 	
+	spriteType = {
+		name = GFX_portrait_Stanley_Baldwin
+		texturefile = "gfx/leaders/LON/Portrait_Britain_Stanley_Baldwin.dds"
+	}
+	
+
 }
