@@ -1,0 +1,26 @@
+parliament_gui_decision_category = {
+	placeholder_1 = {
+
+	}
+	placeholder_2 = {
+		
+	}
+	placeholder_3 = {
+
+	}
+	placeholder_4 = {
+		
+	}
+	placeholder_5 = {
+
+	}
+	placeholder_6 = {
+		
+	}
+	placeholder_7 = {
+
+	}
+	placeholder_8 = {
+		
+	}
+}

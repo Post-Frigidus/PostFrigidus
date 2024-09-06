@@ -8,7 +8,7 @@ set_politics = {
 	ruling_party = democratic
 	last_election = "1923.4.14"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 
 set_popularities = {
@@ -17,10 +17,13 @@ set_popularities = {
 	communism = 1
 }
 
+add_ideas = {
+	PSF_disorganized_pop
+}
 
 
 set_convoys = 60
-set_research_slots = 3
+set_research_slots = 2
 set_stability = 0.62
 set_war_support = 0.3
 
