@@ -10,5 +10,11 @@ parliament_gui_decision_category = {
 	scripted_gui = parliament_gui
 	visible_when_empty = yes
 
-	
+}
+
+uk_states_category = {
+	allowed = {
+		tag = LON
+	}
+	visible_when_empty = yes
 }

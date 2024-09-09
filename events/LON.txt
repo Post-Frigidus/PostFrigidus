@@ -1,0 +1,16 @@
+add_namespace = united_kingdom
+
+country_event = {
+	id = united_kingdom.1
+	is_triggered_only = yes
+
+	title = united_kingdom.1.t
+	desc = united_kingdom.1.d
+	option = {
+		name = united_kingdom.1.a
+		LON = {
+			add_state_core = 126
+			add_state_core = 997
+		}
+	}
+}
