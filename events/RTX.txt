@@ -1,0 +1,19 @@
+#!localisation:localisation\english\RTX_events_l_english.yml
+
+add_namespace = RTX
+
+country_event = {
+	id = RTX.1
+
+	is_triggered_only = yes
+
+	immediate = {
+		scoped_play_song = "Yellow_Rose_of_Texas_-_Mitch_Miller"
+	}
+
+	title = RTX.1.t
+	desc = RTX.1.d
+	option = {
+		name = RTX.1.a
+	}
+}
