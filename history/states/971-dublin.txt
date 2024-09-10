@@ -10,9 +10,9 @@ state = {
 	}
 
 	history = {
-		add_core_of = IRE
+		add_core_of = DUB
 		 
-		owner = IRE
+		owner = DUB
 		
 		 
 

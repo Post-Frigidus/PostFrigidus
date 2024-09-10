@@ -1,6 +1,6 @@
 ideas = {
 	country = {
-		RTX_disorganized_pop = {
+		PSF_disorganized_pop = {
 			picture = prc_low_popular_support2
 
 			modifier = {

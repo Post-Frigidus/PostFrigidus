@@ -1,0 +1,18 @@
+characters = {
+	LON_Stanley_Baldwin={
+		name=LON_Stanley_Baldwin
+		gender = male
+		portraits={
+			civilian={
+				large=GFX_portrait_Stanley_Baldwin
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			traits = {  }
+			id=-1
+		
+		}
+	}
+	
+}

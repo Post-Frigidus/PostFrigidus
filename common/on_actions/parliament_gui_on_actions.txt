@@ -1,0 +1,11 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			LON = {
+				# You can put this in the country's history file alternatively too.
+				parliament_gui_initial = yes
+			}
+		}
+	}
+	
+}

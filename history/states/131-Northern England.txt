@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = UNC
-		 
+		owner = NEW
+		add_core_of = NEW
 		victory_points = {
 			351 8 
 		}
@@ -20,21 +20,12 @@ state={
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
 			dockyard = 4
-			air_base = 6
-			351 = {
-				naval_base = 6
-			}
-		}
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-				industrial_complex = 2
-			}
+			
 		}
 	}
 
 	provinces={
-		351 11270 11299 
+		351  
 	}
 
 	local_supplies=14.0 

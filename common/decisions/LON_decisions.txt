@@ -1,0 +1,38 @@
+uk_states_category = {
+	form_greater_london_region = {
+		cost = 200
+		visible = {
+			NOT = {
+				has_cosmetic_tag = GLR
+			}
+		}
+		ai_will_do = {
+			base = 1100
+		}
+		available = {
+			
+			AND = {
+				NOT = {
+					has_cosmetic_tag = GLR
+				}
+				owns_state = 997
+				owns_state = 996
+				owns_state = 126
+				
+			}
+		}
+		on_map_mode = decision_view_only
+		highlight_states = { 
+			highlight_state_targets = {
+			state = 997
+			state = 996
+			state = 126
+		} 
+		}
+		complete_effect = {
+			LON = {
+				country_event = { id = united_kingdom.1 }
+		}
+	}
+  }
+}

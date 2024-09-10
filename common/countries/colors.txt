@@ -8,12 +8,14 @@ RTX = {
 	color_ui = rgb { 0 116 168 }
 }
 
+#Balkanized UK
+
 IRA = {
 	color = rgb {5 143 0}
 	color_ui = rgb {5 143 0}
 }
 
-IRE = {
+DUB = {
 	color = rgb { 0 68 27 }
 	color_ui = rgb { 0 68 27 }
 }
@@ -21,4 +23,79 @@ IRE = {
 BEL = {
 	color = rgb { 237 173 8 }
 	color_ui = rgb { 237 173 8 }
+}
+
+LON = {
+	color = rgb { 161 2 31 }
+	color_ui = rgb { 161 2 31 }
+}
+
+POR = {
+	color = rgb { 1 102 94 }
+	color_ui = rgb { 1 102 94 }
+}
+
+DOV = {
+	color = rgb { 118 42 131 }
+	color_ui = rgb { 118 42 131 }
+}
+
+BRI = {
+	color = rgb { 35 139 69 }
+	color_ui = rgb { 35 139 69 }
+}
+
+CRD = {
+	color = rgb { 37 52 148 }
+	color_ui = rgb { 37 52 148 }
+}
+
+BIR = {
+	color = rgb { 102 194 164 }
+	color_ui = rgb { 102 194 164 }
+}
+
+LEI = {
+	color = rgb { 140 107 177 }
+	color_ui = rgb { 140 107 177 }
+}
+
+NOT = {
+	color = rgb { 129 15 124 }
+	color_ui = rgb { 129 15 124 }
+}
+
+SHE = {
+	color = rgb { 227 26 28 }
+	color_ui = rgb { 227 26 28 }
+}
+
+LEE = {
+	color = rgb { 239 101 72 }
+	color_ui = rgb { 239 101 72 }
+}
+
+LVP = {
+	color = rgb { 8 29 88 }
+	color_ui = rgb { 8 29 88 }
+}
+
+NEW = {
+	color = rgb { 55 126 184 }
+	color_ui = rgb { 55 126 184 }
+}
+
+EDN = {
+	color = rgb { 53 151 143 }
+	color_ui = rgb { 53 151 143 }
+}
+
+GLA = {
+	color = rgb { 34 94 168 }
+	color_ui = rgb { 34 94 168 }
+}
+
+ROS = {
+	color = rgb { 228 26 28 }
+	color_ui = rgb { 228 26 28 }
 }

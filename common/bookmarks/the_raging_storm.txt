@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "THE_RAGING_STORM_DESC"
 		date = 1924.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "RTX"
 		default = yes
 		
 
@@ -13,13 +13,25 @@ bookmarks = {
 			history = "RTX_RAGING_STORM_DESC"
 			ideology = neutrality
 			ideas = {
-				RTX_disorganized_pop RTX_national_police
+				PSF_disorganized_pop RTX_national_police
 			}
 			focuses = {
 			
 			}
 		}
 	
+		"LON" = {
+			history = "LON_RAGING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				PSF_disorganized_pop
+			}
+			focuses = {
+			
+			}
+		
+		}
+
 		"---"={
 			history = "OTHER_RAGING_STORM_DESC"
 			

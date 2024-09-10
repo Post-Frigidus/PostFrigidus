@@ -1,0 +1,23 @@
+state = {
+	id = 1034
+	name = "STATE_1034"
+	manpower = 10000
+	
+	state_category = rural
+	
+	resources = {
+	
+	}
+
+	history = {
+		
+		owner = UNC
+
+	}
+
+	provinces = {
+		11064   
+	}
+
+	local_supplies = 0.0 
+}
