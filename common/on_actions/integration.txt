@@ -1,0 +1,26 @@
+on_actions = {
+	on_state_control_changed = {
+		effect = {
+				#London stuff
+			if = {
+				limit = {
+					tag = LON
+				}
+				FROM.FROM = {
+					set_variable = {
+						var = LON_integration_level
+						value = 3
+					}
+				}
+			}
+			else = {
+				FROM.FROM = {
+					set_variable = {
+						var = LON_integration_level
+						value = 6
+					}
+				}
+			}
+		}
+	}
+}

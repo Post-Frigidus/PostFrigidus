@@ -11,6 +11,7 @@ country_event = {
 		LON = {
 			add_state_core = 126
 			add_state_core = 997
+			set_cosmetic_tag = UK1
 		}
 	}
 }

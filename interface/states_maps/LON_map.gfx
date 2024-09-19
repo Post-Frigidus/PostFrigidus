@@ -1,0 +1,173 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_LON_map_backdrop"
+		texturefile = "gfx/common/template.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_121"
+		texturefile = "gfx/states_maps/LON/121.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_122"
+		texturefile = "gfx/states_maps/LON/122.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_123"
+		texturefile = "gfx/states_maps/LON/123.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_125"
+		texturefile = "gfx/states_maps/LON/125.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_126"
+		texturefile = "gfx/states_maps/LON/126.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_127"
+		texturefile = "gfx/states_maps/LON/127.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_128"
+		texturefile = "gfx/states_maps/LON/128.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_129"
+		texturefile = "gfx/states_maps/LON/129.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_130"
+		texturefile = "gfx/states_maps/LON/130.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_132"
+		texturefile = "gfx/states_maps/LON/132.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_338"
+		texturefile = "gfx/states_maps/LON/338.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_931"
+		texturefile = "gfx/states_maps/LON/931.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_993"
+		texturefile = "gfx/states_maps/LON/993.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_994"
+		texturefile = "gfx/states_maps/LON/994.dds"
+		noOfFrames = 6
+	}
+	spriteType = {
+		name = "GFX_LON_map_995"
+		texturefile = "gfx/states_maps/LON/995.dds"
+		noOfFrames = 6
+	}
+	spriteType = {
+		name = "GFX_LON_map_996"
+		texturefile = "gfx/states_maps/LON/996.dds"
+		noOfFrames = 6
+	}
+	spriteType = {
+		name = "GFX_LON_map_997"
+		texturefile = "gfx/states_maps/LON/997.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_998"
+		texturefile = "gfx/states_maps/LON/998.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_999"
+		texturefile = "gfx/states_maps/LON/999.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1000"
+		texturefile = "gfx/states_maps/LON/1000.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1001"
+		texturefile = "gfx/states_maps/LON/1001.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1002"
+		texturefile = "gfx/states_maps/LON/1002.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1003"
+		texturefile = "gfx/states_maps/LON/1003.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1004"
+		texturefile = "gfx/states_maps/LON/1004.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1005"
+		texturefile = "gfx/states_maps/LON/1005.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1006"
+		texturefile = "gfx/states_maps/LON/1006.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1007"
+		texturefile = "gfx/states_maps/LON/1007.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1008"
+		texturefile = "gfx/states_maps/LON/1008.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1009"
+		texturefile = "gfx/states_maps/LON/1009.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1010"
+		texturefile = "gfx/states_maps/LON/1010.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1011"
+		texturefile = "gfx/states_maps/LON/1011.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1012"
+		texturefile = "gfx/states_maps/LON/1012.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1013"
+		texturefile = "gfx/states_maps/LON/1013.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1014"
+		texturefile = "gfx/states_maps/LON/1014.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1015"
+		texturefile = "gfx/states_maps/LON/1015.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1016"
+		texturefile = "gfx/states_maps/LON/1016.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1017"
+		texturefile = "gfx/states_maps/LON/1017.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1018"
+		texturefile = "gfx/states_maps/LON/1018.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1019"
+		texturefile = "gfx/states_maps/LON/1019.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1020"
+		texturefile = "gfx/states_maps/LON/1020.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1021"
+		texturefile = "gfx/states_maps/LON/1021.dds"
+	}
+}

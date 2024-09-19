@@ -1,9 +1,9 @@
-parliament_gui_decision_category = {
+uk_parliament_decision_category = {
 	icon = usa_congress
 
 	# picture = 
 
-	allowed = { always = no}
+	allowed = { always = yes}
 
 	priority = 1000
 
@@ -16,5 +16,6 @@ uk_states_category = {
 	allowed = {
 		tag = LON
 	}
+	scripted_gui = LON_states_map
 	visible_when_empty = yes
 }

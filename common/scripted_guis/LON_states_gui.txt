@@ -1,0 +1,19 @@
+scripted_gui = {
+	LON_states_map = {
+		context_type = decision_category
+		
+		window_name = London_states_map_container
+
+		properties = {
+			LON_994 = {
+				frame = 994.LON_integration_level
+			}
+			LON_995 = {
+				frame = 995.LON_integration_level
+			}
+			LON_996 = {
+				frame = 996.LON_integration_level
+			}
+		}
+	}
+}

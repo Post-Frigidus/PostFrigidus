@@ -16,12 +16,7 @@ scripted_gui = {
 				change_scope = no
 				entry_container = parliament_semicircle_main_entry
 			}
-			parliament_member_grid = {
-				array = parliament_member_array
-				index = parliament_member_index
-				change_scope = no
-				entry_container = parliament_member_entry
-			}
+		
 		}
 
 	

@@ -3,7 +3,7 @@ uk_states_category = {
 		cost = 200
 		visible = {
 			NOT = {
-				has_cosmetic_tag = GLR
+				has_cosmetic_tag = UK1
 			}
 		}
 		ai_will_do = {
@@ -13,7 +13,7 @@ uk_states_category = {
 			
 			AND = {
 				NOT = {
-					has_cosmetic_tag = GLR
+					has_cosmetic_tag = UK1
 				}
 				owns_state = 997
 				owns_state = 996
@@ -35,4 +35,22 @@ uk_states_category = {
 		}
 	}
   }
+}
+
+uk_parliament_decision_category = {
+	small_lobby_effort = {
+		icon = generic_political_discourse
+		cost = 0
+		days_remove = 30
+	}
+	medium_lobby_effort = {
+		icon = generic_political_discourse
+		cost = 0
+		days_remove = 30
+	}
+	take_drastic_measures = {
+		cost = 250
+		icon = generic_prepare_civil_war
+		days_remove = 50
+	}
 }

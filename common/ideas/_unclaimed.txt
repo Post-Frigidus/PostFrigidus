@@ -15,6 +15,7 @@ ideas = {
 				Production_speed_buildings_factor = -1
 				research_speed_factor = -10
 				resistance_target = -1
+				enemy_justify_war_goal_time = 99999999
 			}
 			
 			rule = {

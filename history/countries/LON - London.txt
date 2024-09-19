@@ -35,3 +35,25 @@ set_technology = {
     fuel_silos = 1
     basic_train = 1
 }
+
+
+#set starting state integration levels for owned or otherwis eclaimed states
+
+994 = {
+	set_variable = {
+		var = LON_integration_level
+		value = 6
+	}
+}
+995 = {
+	set_variable = {
+		var = LON_integration_level
+		value = 6
+	}
+}
+996 = {
+	set_variable = {
+		var = LON_integration_level
+		value = 3
+	}
+}
