@@ -1,0 +1,10 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_RTX_yellowrose                         # In some cases, beginning with GFX_ is mandatory for it to work.
+        textureFile = gfx/interface/RTX/yellowrose.dds # The folder and filename don't matter, as long as they are correct
+    }                                                   # Only the forward slash '/' (can be doubled as '//') can be used to separate folders.
+    spriteType = {
+        name = GFX_burnet_flag
+        textureFile = gfx/event_pictures/burnetflag.dds
+    }
+}

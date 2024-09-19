@@ -1,0 +1,62 @@
+#!gfx:interface/RTX.gfx
+#!localisation:localisation/english/RTX_focus_l_english.yml
+#!event:events/RTX.txt
+
+focus_tree = {
+	id = RTX_focustree
+	country = { 
+		factor = 0
+		modifier = {
+			add = 20
+			original_tag = RTX
+		}
+	}
+
+	continuous_focus_position = {
+		x = 25
+		y = 1000
+	}
+
+	initial_show_position = {
+		focus = RTX_yellowrose
+	}
+
+	focus = {
+		id = RTX_start
+		icon = GFX_focus_generic_improve_the_administration
+		cost = 1
+		x = 3
+		y = 0
+		completion_reward = {
+			add_political_power = 35
+			RTX = {
+				country_event = RTX.2
+			}
+		}
+	}
+
+	focus = {
+		id = RTX_yellowrose
+		icon = GFX_RTX_yellowrose
+		cost = 2
+		x = 10
+		y = 0
+		available = {
+			owns_state = 986
+			owns_state = 987
+			owns_state = 988
+			owns_state = 989
+			owns_state = 990
+			owns_state = 991
+			owns_state = 992
+		}
+		completion_reward = {
+			add_political_power = 100
+			add_command_power = 25
+			add_stability = 0.075
+			RTX = {
+				country_event = RTX.1
+			}
+		}
+	}
+}
