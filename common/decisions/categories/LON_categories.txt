@@ -3,7 +3,13 @@ uk_parliament_decision_category = {
 
 	# picture = 
 
-	allowed = { always = yes}
+	allowed = { 
+
+			tag = LON
+			always = no
+		
+	
+	}
 
 	priority = 1000
 
