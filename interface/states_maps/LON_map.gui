@@ -13,6 +13,14 @@ guiTypes = {
 			}
 		}
 		iconType = {
+			name = "LON_120"
+			spriteType = GFX_LON_map_120
+			position = {
+				x = 153
+				y =138
+			}
+		}
+		iconType = {
 			name = "LON_121"
 			spriteType = GFX_LON_map_121
 			position = {
@@ -90,6 +98,22 @@ guiTypes = {
 			position = {
 				x = 259
 				y =238
+			}
+		}
+		iconType = {
+			name = "LON_133"
+			spriteType = GFX_LON_map_133
+			position = {
+				x = 193
+				y =188
+			}
+		}
+		iconType = {
+			name = "LON_136"
+			spriteType = GFX_LON_map_136
+			position = {
+				x = 263
+				y =82
 			}
 		}
 		iconType = {
@@ -338,6 +362,110 @@ guiTypes = {
 			position = {
 				x = 247
 				y =208
+			}
+		}
+		iconType = {
+			name = "LON_1026"
+			spriteType = GFX_LON_map_1026
+			position = {
+				x = 201
+				y =154
+			}
+		}
+		iconType = {
+			name = "LON_1027"
+			spriteType = GFX_LON_map_1027
+			position = {
+				x = 187
+				y =118
+			}
+		}
+		iconType = {
+			name = "LON_1028"
+			spriteType = GFX_LON_map_1028
+			position = {
+				x = 243
+				y =104
+			}
+		}
+		iconType = {
+			name = "LON_1029"
+			spriteType = GFX_LON_map_1029
+			position = {
+				x = 205
+				y =98
+			}
+		}
+		iconType = {
+			name = "LON_1030"
+			spriteType = GFX_LON_map_1030
+			position = {
+				x = 221
+				y =82
+			}
+		}
+		iconType = {
+			name = "LON_1031"
+			spriteType = GFX_LON_map_1031
+			position = {
+				x = 131
+				y =114
+			}
+		}
+		iconType = {
+			name = "LON_1032"
+			spriteType = GFX_LON_map_1032
+			position = {
+				x = 145
+				y =82
+			}
+		}
+		iconType = {
+			name = "LON_1033"
+			spriteType = GFX_LON_map_1033
+			position = {
+				x = 121
+				y =44
+			}
+		}
+		iconType = {
+			name = "LON_1034"
+			spriteType = GFX_LON_map_1034
+			position = {
+				x = 245
+				y = 8
+			}
+		}
+		iconType = {
+			name = "LON_1035"
+			spriteType = GFX_LON_map_1035
+			position = {
+				x = 209
+				y =38
+			}
+		}
+		iconType = {
+			name = "LON_1036"
+			spriteType = GFX_LON_map_1036
+			position = {
+				x = 173
+				y = 96
+			}
+		}
+		iconType = {
+			name = "LON_1037"
+			spriteType = GFX_LON_map_1037
+			position = {
+				x = 173
+				y = 40
+			}
+		}
+		iconType = {
+			name = "LON_1038"
+			spriteType = GFX_LON_map_1038
+			position = {
+				x = 191
+				y = 64
 			}
 		}
 	}

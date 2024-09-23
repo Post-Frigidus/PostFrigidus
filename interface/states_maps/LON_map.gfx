@@ -4,6 +4,10 @@ spriteTypes = {
 		texturefile = "gfx/common/template.dds"
 	}
 	spriteType = {
+		name = "GFX_LON_map_120"
+		texturefile = "gfx/states_maps/LON/120.dds"
+	}
+	spriteType = {
 		name = "GFX_LON_map_121"
 		texturefile = "gfx/states_maps/LON/121.dds"
 	}
@@ -42,6 +46,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_LON_map_132"
 		texturefile = "gfx/states_maps/LON/132.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_133"
+		texturefile = "gfx/states_maps/LON/133.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_136"
+		texturefile = "gfx/states_maps/LON/136.dds"
 	}
 	spriteType = {
 		name = "GFX_LON_map_338"
@@ -169,5 +181,57 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_LON_map_1021"
 		texturefile = "gfx/states_maps/LON/1021.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1026"
+		texturefile = "gfx/states_maps/LON/1026.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1027"
+		texturefile = "gfx/states_maps/LON/1027.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1028"
+		texturefile = "gfx/states_maps/LON/1028.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1029"
+		texturefile = "gfx/states_maps/LON/1029.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1030"
+		texturefile = "gfx/states_maps/LON/1030.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1031"
+		texturefile = "gfx/states_maps/LON/1031.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1032"
+		texturefile = "gfx/states_maps/LON/1032.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1033"
+		texturefile = "gfx/states_maps/LON/1033.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1034"
+		texturefile = "gfx/states_maps/LON/1034.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1035"
+		texturefile = "gfx/states_maps/LON/1035.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1036"
+		texturefile = "gfx/states_maps/LON/1036.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1037"
+		texturefile = "gfx/states_maps/LON/1037.dds"
+	}
+	spriteType = {
+		name = "GFX_LON_map_1038"
+		texturefile = "gfx/states_maps/LON/1038.dds"
 	}
 }
